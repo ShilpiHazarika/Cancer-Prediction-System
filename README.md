@@ -1,2 +1,3 @@
 # Cancer-Prediction-System
-Developed anipas
+Implemented SVM and Random Forest algorithms to develop a cancer prediction system that can predict or determine cancer patients.
+
